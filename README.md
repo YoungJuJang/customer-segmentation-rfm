@@ -103,6 +103,7 @@ RFM 분석을 수행하기 위한 고객 데이터로 구성되어 있다.
 
 <img width="770" height="458" alt="image" src="https://github.com/user-attachments/assets/1a881df2-b4f9-4738-af4b-f46676bb1941" />
 
+---
 
 ### ✦ 주요 인사이트
 
